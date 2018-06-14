@@ -1,0 +1,303 @@
+
+2018-03-09 10:36:11
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 10:36:11
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:57)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 10:38:37
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 10:38:37
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:58)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 10:58:00
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 10:58:00
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:58)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 11:03:34
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:03:34
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:57)
+	at controller.admin.push.Jdpush.main(Jdpush.java:37)
+
+2018-03-09 11:12:01
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:12:01
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:57)
+	at controller.admin.push.Jdpush.main(Jdpush.java:37)
+
+2018-03-09 11:16:55
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:16:55
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:59)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 11:17:48
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:17:48
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:58)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 11:19:30
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:19:30
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:57)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 11:19:48
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Authentication failed! Please check authentication params according to docs.
+
+2018-03-09 11:19:48
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:57)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 11:24:12
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:24:12
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:57)
+	at controller.admin.push.Jdpush.main(Jdpush.java:38)
+
+2018-03-09 11:32:50
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:32:50
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:53)
+	at controller.admin.push.SendPush.main(SendPush.java:20)
+
+2018-03-09 11:43:30
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:43:30
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:53)
+	at controller.admin.push.SendPush.main(SendPush.java:24)
+
+2018-03-09 11:43:45
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 11:43:45
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:53)
+	at controller.admin.push.SendPush.main(SendPush.java:24)
+
+2018-03-09 14:30:55
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 14:30:55
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:53)
+	at controller.admin.push.SendPush.main(SendPush.java:36)
+
+2018-03-09 14:35:57
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 14:35:57
+[ERROR]-[Thread: main]-[controller.admin.push.Jdpush.testSendPush()]: Error response from JPush server. Should review and fix it. 
+{}
+	at cn.jiguang.common.connection.NativeHttpClient._doRequest(NativeHttpClient.java:234)
+	at cn.jiguang.common.connection.NativeHttpClient.doRequest(NativeHttpClient.java:99)
+	at cn.jiguang.common.connection.NativeHttpClient.sendPost(NativeHttpClient.java:86)
+	at cn.jpush.api.push.PushClient.sendPush(PushClient.java:163)
+	at cn.jpush.api.JPushClient.sendPush(JPushClient.java:194)
+	at controller.admin.push.Jdpush.testSendPush(Jdpush.java:53)
+	at controller.admin.push.SendPush.main(SendPush.java:35)
+
+2018-03-09 14:43:32
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 14:48:17
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 14:52:57
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:06:06
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:18:38
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:18:54
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:19:40
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:20:03
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:21:44
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:26:25
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:26:59
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:27:30
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:28:11
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:30:26
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:33:42
+[ERROR]-[Thread: main]-[cn.jiguang.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:49:50
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:52:32
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:52:46
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:53:41
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:55:35
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:58:02
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:59:01
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 15:59:45
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Request is forbidden! Maybe your appkey is listed in blacklist or your params is invalid.
+
+2018-03-09 16:02:00
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Your request params is invalid. Please check them according to error message.
+
+2018-03-09 16:24:42
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Your request params is invalid. Please check them according to error message.
+
+2018-03-09 16:27:35
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Your request params is invalid. Please check them according to error message.
+
+2018-03-09 16:30:25
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Authentication failed! Please check authentication params according to docs.
+
+2018-03-09 16:30:46
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Authentication failed! Please check authentication params according to docs.
+
+2018-03-09 16:32:15
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Your request params is invalid. Please check them according to error message.
+
+2018-03-09 16:36:43
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Authentication failed! Please check authentication params according to docs.
+
+2018-03-09 16:38:10
+[ERROR]-[Thread: main]-[cn.jpush.api.common.connection.NativeHttpClient._doRequest()]: Authentication failed! Please check authentication params according to docs.
