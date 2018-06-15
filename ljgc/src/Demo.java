@@ -12,5 +12,8 @@ public class Demo {
 	public static void main(String[] args) {
 		DbGenerate db = new DbGenerate();
 		db.generate();
+		
+		
+		//hhhhhhjjjj
 	}
 }
