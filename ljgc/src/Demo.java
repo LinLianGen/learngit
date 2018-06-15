@@ -13,7 +13,8 @@ public class Demo {
 		DbGenerate db = new DbGenerate();
 		db.generate();
 		
-		
+			
 		//hhhhhhjjjj
+		//jintcaes
 	}
 }
